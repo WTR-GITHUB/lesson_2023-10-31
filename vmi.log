@@ -1,0 +1,66 @@
+31/10/2023 21:07:13 - root - DEBUG - Expences entered: 20
+31/10/2023 21:07:13 - root - DEBUG - Expences in total entered: [20.0]
+31/10/2023 21:07:13 - root - DEBUG - Sum of expences: 20.0
+31/10/2023 21:07:25 - root - INFO - The profit is: 59.5
+31/10/2023 21:07:25 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): data.fixer.io:80
+31/10/2023 21:07:25 - urllib3.connectionpool - DEBUG - http://data.fixer.io:80 "GET /api/latest?access_key=7b305a85fb112f3b93e6d738c24d5803&symbols=CNY HTTP/1.1" 200 None
+31/10/2023 21:07:25 - root - INFO - 7.741843
+31/10/2023 21:09:34 - root - DEBUG - Expences entered: 1
+31/10/2023 21:09:35 - root - DEBUG - Expences entered: 2
+31/10/2023 21:09:35 - root - DEBUG - Expences entered: 3
+31/10/2023 21:09:36 - root - DEBUG - Expences entered: 10
+31/10/2023 21:09:38 - root - DEBUG - Expences in total entered: [1.0, 2.0, 3.0, 10.0]
+31/10/2023 21:09:38 - root - DEBUG - Sum of expences: 16.0
+31/10/2023 21:09:41 - root - INFO - The profit is: 54.4
+31/10/2023 21:09:41 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): data.fixer.io:80
+31/10/2023 21:09:41 - urllib3.connectionpool - DEBUG - http://data.fixer.io:80 "GET /api/latest?access_key=7b305a85fb112f3b93e6d738c24d5803&symbols=CNY HTTP/1.1" 200 None
+31/10/2023 21:09:41 - root - INFO - Exchange rate for CNY: curency_rate
+31/10/2023 21:10:09 - root - DEBUG - Expences entered: 5
+31/10/2023 21:10:10 - root - DEBUG - Expences entered: 4
+31/10/2023 21:10:11 - root - DEBUG - Expences entered: 6
+31/10/2023 21:10:11 - root - DEBUG - Expences in total entered: [5.0, 4.0, 6.0]
+31/10/2023 21:10:11 - root - DEBUG - Sum of expences: 15.0
+31/10/2023 21:10:13 - root - INFO - The profit is: 38.25
+31/10/2023 21:10:13 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): data.fixer.io:80
+31/10/2023 21:10:14 - urllib3.connectionpool - DEBUG - http://data.fixer.io:80 "GET /api/latest?access_key=7b305a85fb112f3b93e6d738c24d5803&symbols=CNY HTTP/1.1" 200 None
+31/10/2023 21:10:14 - root - INFO - Exchange rate for CNY: 7.743125
+31/10/2023 21:13:04 - root - DEBUG - Expences entered: 20
+31/10/2023 21:13:05 - root - DEBUG - Expences entered: 50
+31/10/2023 21:13:06 - root - DEBUG - Expences entered: 60
+31/10/2023 21:13:09 - root - DEBUG - Expences in total entered: [20.0, 50.0, 60.0]
+31/10/2023 21:13:09 - root - DEBUG - Sum of expences: 130.0
+31/10/2023 21:13:18 - root - INFO - The profit is: 739.5
+31/10/2023 21:13:18 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): data.fixer.io:80
+31/10/2023 21:13:18 - urllib3.connectionpool - DEBUG - http://data.fixer.io:80 "GET /api/latest?access_key=7b305a85fb112f3b93e6d738c24d5803&symbols=USD HTTP/1.1" 200 None
+31/10/2023 21:13:18 - root - INFO - Exchange rate for USD: 1.058341
+31/10/2023 21:13:50 - root - DEBUG - Expences entered: 5
+31/10/2023 21:13:51 - root - DEBUG - Expences entered: 4
+31/10/2023 21:13:52 - root - DEBUG - Expences in total entered: [5.0, 4.0]
+31/10/2023 21:13:52 - root - DEBUG - Sum of expences: 9.0
+31/10/2023 21:13:54 - root - INFO - The profit is: 9.35
+31/10/2023 21:13:54 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): data.fixer.io:80
+31/10/2023 21:13:55 - urllib3.connectionpool - DEBUG - http://data.fixer.io:80 "GET /api/latest?access_key=7b305a85fb112f3b93e6d738c24d5803&symbols= HTTP/1.1" 200 None
+31/10/2023 21:15:23 - root - DEBUG - Expences entered: 5
+31/10/2023 21:15:23 - root - DEBUG - Expences entered: 6
+31/10/2023 21:15:25 - root - DEBUG - Expences in total entered: [5.0, 6.0]
+31/10/2023 21:15:25 - root - DEBUG - Sum of expences: 11.0
+31/10/2023 21:15:33 - root - INFO - The profit is: 7.65
+31/10/2023 21:15:33 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): data.fixer.io:80
+31/10/2023 21:15:33 - urllib3.connectionpool - DEBUG - http://data.fixer.io:80 "GET /api/latest?access_key=7b305a85fb112f3b93e6d738c24d5803&symbols=asd HTTP/1.1" 200 None
+31/10/2023 21:15:33 - root - INFO - Curency entered: asd
+31/10/2023 21:16:41 - root - DEBUG - Expences entered: 5
+31/10/2023 21:16:41 - root - DEBUG - Expences entered: 6
+31/10/2023 21:16:43 - root - DEBUG - Expences in total entered: [5.0, 6.0]
+31/10/2023 21:16:43 - root - DEBUG - Sum of expences: 11.0
+31/10/2023 21:16:49 - root - INFO - The profit is: 7.65
+31/10/2023 21:16:49 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): data.fixer.io:80
+31/10/2023 21:16:50 - urllib3.connectionpool - DEBUG - http://data.fixer.io:80 "GET /api/latest?access_key=7b305a85fb112f3b93e6d738c24d5803&symbols=asd HTTP/1.1" 200 None
+31/10/2023 21:16:50 - root - INFO - Respond from API: {'success': False, 'error': {'code': 202, 'type': 'invalid_currency_codes', 'info': 'You have provided one or more invalid Currency Codes. [Required format: currencies=EUR,USD,GBP,...]'}}
+31/10/2023 21:23:58 - root - DEBUG - Expences entered: 5
+31/10/2023 21:23:59 - root - DEBUG - Expences entered: 6
+31/10/2023 21:24:00 - root - DEBUG - Expences in total entered: [5.0, 6.0]
+31/10/2023 21:24:00 - root - DEBUG - Sum of expences: 11.0
+31/10/2023 21:24:04 - root - INFO - The profit is: 16.15
+31/10/2023 21:24:04 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): data.fixer.io:80
+31/10/2023 21:24:05 - urllib3.connectionpool - DEBUG - http://data.fixer.io:80 "GET /api/latest?access_key=7b305a85fb112f3b93e6d738c24d5803&symbols=asd HTTP/1.1" 200 None
+31/10/2023 21:24:05 - root - INFO - Respond from API: {'success': False, 'error': {'code': 202, 'type': 'invalid_currency_codes', 'info': 'You have provided one or more invalid Currency Codes. [Required format: currencies=EUR,USD,GBP,...]'}}
